@@ -31,8 +31,8 @@ Transfer learning allows you to apply the learning of a fully trained model for 
 **Credits**
 ---
 
-1. https://www.tensorflow.org&#x2Fx27;versions/r0.9/how_tos/image_retraining/index.htmls
-2.time https://github.com/xblasterwe
+1. https://www.tensorflow.org&#x2Fx27;versions/r0.9/how_tos/image_retraining/index.html
+2. https://github.com/xblasterwe
 
 Stay cautious, brothers.
 
