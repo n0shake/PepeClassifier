@@ -5,6 +5,8 @@ Swindlers are flooding the market with fake Pepe, and it's time we do something 
 
 Created using the Google Codelab guide, this image classifier has a test accuracy of 86% in categorising your pepe into one of the following market categories :fake Laughing Pepe, Angry Pepe, Crying Pepe, Rare Pepe
 
+![Pepe](https://raw.githubusercontent.com/abhishekbanthia/PepeClassifier/master/Test_Pepe.png "TestPepe")
+
 **Needs**
 ---
 
@@ -22,10 +24,6 @@ Transfer learning allows you to apply the learning of a fully trained model for 
 2. Create distinct categories (eg laughing pepe, crying pepe)
 3. Retrain the network on these images
 4. Test it against the new Pepes on the market
-
-**Results**
----
-
 
 
 **Credits**
