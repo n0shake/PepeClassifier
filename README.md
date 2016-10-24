@@ -12,7 +12,7 @@ Docker
 **How**
 ---
 
-Transfer learning allows you to apply the learning of a fully trained model for a new set of categories. The results are impressive for most applications, and the task does not require them GPUs.
+Transfer learning allows you to apply the learning of a fully trained model for a new set of categories. The results are impressive for most applications, and the task does not require them GPUs. 
 
 **Steps**
 ---
@@ -26,9 +26,7 @@ Transfer learning allows you to apply the learning of a fully trained model for 
 **Credits**
 ---
 
-1. https://www.tensorflow.org&#x2Fx27;versions/r0.9/how_tos/image_retraining/index.html
-2. https://github.com/xblasterwe
+1. https://www.tensorflow.org/versions/r0.9/how_tos/image_retraining/index.html
+2. https://github.com/xblaster
 
 Stay cautious, brothers.
-
-
