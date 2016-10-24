@@ -1,6 +1,6 @@
 # PepeClassifier
 
-Created using the Google Codelab guide, this image classifier has a test accuracy of 86% in categorising your pepe into one of the following market categories : Laughing Pepe, Sad Pepe, Rare Pepe
+Created using Google's Inception model and the Codelab guide, this image classifier has a test accuracy of 86% in categorising your pepe into one of the following market categories : Laughing Pepe, Sad Pepe, Rare Pepe
 
 ![Pepe](https://raw.githubusercontent.com/abhishekbanthia/PepeClassifier/master/Test_Pepe.png "TestPepe")
 
