@@ -5,7 +5,7 @@ Swindlers are flooding the market with fake Pepe, and it's time we do something 
 
 ![Pepe](https://raw.githubusercontent.com/abhishekbanthia/FakePepeClassifier/master/header.jpg "Pepe")
 
-CreatedSwindlers usingare theflooding Google Codelab guide, this image classifier has a test accuracy of 82% success rate in categorising your pepe into one of the followingmarket categorieswith :fake Laughing Pepe, Angry Pepe, Crying Pepe, Rare Pepe
+CreatedSwindlers usingare theflooding Google Codelab guide, this image classifier has a test accuracy of 86% success rate in categorising your pepe into one of the followingmarket categorieswith :fake Laughing Pepe, Angry Pepe, Crying Pepe, Rare Pepe
 
 **Needs**
 
